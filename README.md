@@ -23,7 +23,7 @@ As displayed in the tables, the updated district summary has lower  percentages 
  
 ◦	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-As you can see in the tables, Thomas High School maintained its position in the top 5 performing schools, as the second greatest performing high school in the district.
+As displayed in the tables, Thomas High School maintained its position in the top 5 performing schools, as the second greatest performing high school in the district.
 
 <img width="988" alt="Old Top 5 Schools" src="https://user-images.githubusercontent.com/88624677/134792193-e9a552a4-0001-44d8-9024-b7a90bb490dd.png">
 <img width="1070" alt="Updated Top 5 Schools" src="https://user-images.githubusercontent.com/88624677/134792199-bf24aa56-ea4d-4c54-aa6e-2429d7ddfc64.png">
