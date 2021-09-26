@@ -31,13 +31,13 @@ As displayed in the tables, Thomas High School maintained its position in the to
 
 ◦	How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
-* Like the previous percentages, the math and reading scores by grade did not change significantly. The grades for the ninth-graders at Thomas High School were replaced with Nan values.
+  - Like the previous percentages, the math and reading scores by grade did not change significantly. The grades for the ninth-graders at Thomas High School were replaced with Nan values.
 - Scores by school spending
-* Looking at the scores by school spending, they did not change when we altered the ninth-grade reading and math scores.  
+  - Looking at the scores by school spending, they did not change when we altered the ninth-grade reading and math scores.  
 - Scores by school size
-* Looking at the scores by school size, the medium size school percentage for the passing math percentage, passing reading percentage, and the overall percentage are 0.1 less than the older scores we analyzed with the ninth-grade students from Thomas High School.
+  - Looking at the scores by school size, the medium size school percentage for the passing math percentage, passing reading percentage, and the overall percentage are 0.1 less than the older scores we analyzed with the ninth-grade students from Thomas High School.
  - Scores by school size
-* The percentages for % passing reading, % passing math, and % overall passing in the charter school type decreased by 0.1 percent, as it did with the previous values.
+  - The percentages for % passing reading, % passing math, and % overall passing in the charter school type decreased by 0.1 percent, as it did with the previous values.
 
 ## Summary
 In all, the overall percentage in the updated district summary decreased compared to the old district summary, just like percentages in the school summary for the Thomas High School row, the math, reading, and overall passing percentages for the scores for the medium school size and the scores for the charter school type.
