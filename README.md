@@ -30,13 +30,13 @@ As displayed in the tables, Thomas High School maintained its position in the to
 
 
 ◦	How does replacing the ninth-grade scores affect the following:
- * Math and reading scores by grade
+- Math and reading scores by grade
 * Like the previous percentages, the math and reading scores by grade did not change significantly. The grades for the ninth-graders at Thomas High School were replaced with Nan values.
- * Scores by school spending
+- Scores by school spending
 * Looking at the scores by school spending, they did not change when we altered the ninth-grade reading and math scores.  
- * Scores by school size
+- Scores by school size
 * Looking at the scores by school size, the medium size school percentage for the passing math percentage, passing reading percentage, and the overall percentage are 0.1 less than the older scores we analyzed with the ninth-grade students from Thomas High School.
- * Scores by school size
+ - Scores by school size
 * The percentages for % passing reading, % passing math, and % overall passing in the charter school type decreased by 0.1 percent, as it did with the previous values.
 
 ## Summary
